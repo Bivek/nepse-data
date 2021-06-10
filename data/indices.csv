@@ -1,4 +1,5 @@
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+NEPSE,2021/06/10,"2,944.78",-1.80,-0.061%
 NEPSE,2021/06/09,"2,946.58",-13.56,-0.4582%
 NEPSE,2021/06/08,"2,960.14",53.44,1.8386%
 NEPSE,2021/06/07,"2,906.70",-0.21,-0.0072%
@@ -531,7 +532,10 @@ NEPSE,2019/01/08,"1,177.07",-0.40,-0.0339%
 NEPSE,2019/01/07,"1,177.46",6.67,0.57%
 NEPSE,2019/01/06,"1,170.79",-7.22,-0.6129%
 NEPSE,2019/01/03,"1,178.87",-1.56,-0.132%
+NEPSE,2019/01/02,"1,180.43",-5.42,-0.4573%
+NEPSE,2019/01/01,"1,185.91",-1.36,-0.115%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Sensitivity,2021/06/10,527.88,2.59,0.4935%
 Sensitivity,2021/06/09,525.28,-2.83,-0.5353%
 Sensitivity,2021/06/08,528.11,7.47,1.4347%
 Sensitivity,2021/06/07,520.64,-0.38,-0.072%
@@ -1062,7 +1066,10 @@ Sensitivity,2019/01/08,249.84,-0.09,-0.0377%
 Sensitivity,2019/01/07,249.93,1.37,0.5502%
 Sensitivity,2019/01/06,248.56,-1.30,-0.5185%
 Sensitivity,2019/01/03,250.06,-0.48,-0.1909%
+Sensitivity,2019/01/02,250.53,-1.28,-0.5098%
+Sensitivity,2019/01/01,251.83,-0.33,-0.1312%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Float,2021/06/10,203.82,-0.37,-0.1831%
 Float,2021/06/09,204.20,-1.03,-0.5032%
 Float,2021/06/08,205.23,3.94,1.9571%
 Float,2021/06/07,201.29,-0.07,-0.0325%
@@ -1594,7 +1601,10 @@ Float,2019/01/08,85.60,0.00,0.0018%
 Float,2019/01/07,85.60,0.53,0.6286%
 Float,2019/01/06,85.07,-0.66,-0.7703%
 Float,2019/01/03,85.80,-0.11,-0.1286%
+Float,2019/01/02,85.91,-0.37,-0.4311%
+Float,2019/01/01,86.29,-0.11,-0.1302%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Sen. Float,2021/06/10,175.21,0.40,0.2289%
 Sen. Float,2021/06/09,174.81,-1.28,-0.7277%
 Sen. Float,2021/06/08,176.09,3.28,1.8963%
 Sen. Float,2021/06/07,172.81,-0.01,-0.0034%
@@ -2124,7 +2134,10 @@ Sen. Float,2019/01/08,78.54,-0.01,-0.0116%
 Sen. Float,2019/01/07,78.54,0.48,0.6207%
 Sen. Float,2019/01/06,78.06,-0.55,-0.7007%
 Sen. Float,2019/01/03,78.68,-0.12,-0.153%
+Sen. Float,2019/01/02,78.80,-0.36,-0.4606%
+Sen. Float,2019/01/01,79.17,-0.12,-0.1571%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Banking,2021/06/10,"1,936.70",-17.78,-0.9096%
 Banking,2021/06/09,"1,954.48",-11.34,-0.5769%
 Banking,2021/06/08,"1,965.82",20.10,1.033%
 Banking,2021/06/07,"1,945.72",-31.74,-1.6051%
@@ -2655,7 +2668,10 @@ Banking,2019/01/08,"1,013.15",-0.09,-0.009%
 Banking,2019/01/07,"1,013.24",4.64,0.4599%
 Banking,2019/01/06,"1,008.61",-6.86,-0.676%
 Banking,2019/01/03,"1,015.47",-4.36,-0.4274%
+Banking,2019/01/02,"1,019.83",-4.44,-0.4333%
+Banking,2019/01/01,"1,024.27",-2.13,-0.2076%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Trading,2021/06/10,"4,130.49",-57.42,-1.3711%
 Trading,2021/06/09,"4,187.91",78.93,1.9208%
 Trading,2021/06/08,"4,108.99",19.27,0.4713%
 Trading,2021/06/07,"4,089.71",-92.27,-2.2063%
@@ -3053,7 +3069,9 @@ Trading,2019/01/17,249.81,-3.13,-1.2358%
 Trading,2019/01/16,252.93,1.86,0.7402%
 Trading,2019/01/15,251.07,2.87,1.1573%
 Trading,2019/01/10,243.56,2.53,1.0515%
+Trading,2019/01/02,236.59,2.79,1.1915%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Hotels and Tourism,2021/06/10,"3,549.38",-13.27,-0.3726%
 Hotels and Tourism,2021/06/09,"3,562.65",-2.01,-0.0564%
 Hotels and Tourism,2021/06/08,"3,564.66",-16.45,-0.4595%
 Hotels and Tourism,2021/06/07,"3,581.12",-42.49,-1.1727%
@@ -3582,7 +3600,10 @@ Hotels and Tourism,2019/01/08,"1,727.08",-11.96,-0.6878%
 Hotels and Tourism,2019/01/07,"1,739.04",17.65,1.0253%
 Hotels and Tourism,2019/01/06,"1,721.39",-7.80,-0.4508%
 Hotels and Tourism,2019/01/03,"1,729.18",18.25,1.0667%
+Hotels and Tourism,2019/01/02,"1,710.93",-5.79,-0.3373%
+Hotels and Tourism,2019/01/01,"1,716.73",-4.91,-0.2854%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Development Bank,2021/06/10,"4,714.44",120.60,2.6254%
 Development Bank,2021/06/09,"4,593.84",-211.88,-4.4089%
 Development Bank,2021/06/08,"4,805.72",398.29,9.0368%
 Development Bank,2021/06/07,"4,407.43",260.06,6.2705%
@@ -4112,7 +4133,10 @@ Development Bank,2019/01/08,"1,449.83",1.61,0.1111%
 Development Bank,2019/01/07,"1,448.22",7.64,0.5304%
 Development Bank,2019/01/06,"1,440.58",-14.33,-0.9846%
 Development Bank,2019/01/03,"1,454.90",-6.18,-0.4227%
+Development Bank,2019/01/02,"1,461.08",-3.01,-0.2052%
+Development Bank,2019/01/01,"1,464.19",-1.45,-0.0989%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Hydropower,2021/06/10,"3,056.89",88.65,2.9866%
 Hydropower,2021/06/09,"2,968.25",-15.91,-0.5331%
 Hydropower,2021/06/08,"2,984.16",58.36,1.9945%
 Hydropower,2021/06/07,"2,925.80",91.65,3.2338%
@@ -4643,7 +4667,10 @@ Hydropower,2019/01/08,"1,198.24",-2.10,-0.1751%
 Hydropower,2019/01/07,"1,200.34",5.37,0.4494%
 Hydropower,2019/01/06,"1,194.97",-14.55,-1.2028%
 Hydropower,2019/01/03,"1,209.52",-6.37,-0.5236%
+Hydropower,2019/01/02,"1,215.89",-12.62,-1.0273%
+Hydropower,2019/01/01,"1,228.51",-3.86,-0.313%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Finance,2021/06/10,"2,428.42",60.95,2.5744%
 Finance,2021/06/09,"2,367.47",47.38,2.042%
 Finance,2021/06/08,"2,320.10",185.93,8.712%
 Finance,2021/06/07,"2,134.17",162.94,8.266%
@@ -5175,7 +5202,10 @@ Finance,2019/01/08,602.83,-0.83,-0.1367%
 Finance,2019/01/07,603.66,1.20,0.1999%
 Finance,2019/01/06,602.45,-1.65,-0.2727%
 Finance,2019/01/03,605.99,0.38,0.0626%
+Finance,2019/01/02,605.65,-0.86,-0.1418%
+Finance,2019/01/01,606.79,-0.34,-0.0567%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Microfinance,2021/06/10,"5,394.15",7.34,0.1363%
 Microfinance,2021/06/09,"5,386.81",-18.65,-0.3449%
 Microfinance,2021/06/08,"5,405.49",-24.21,-0.4459%
 Microfinance,2021/06/07,"5,429.70",-22.43,-0.4115%
@@ -5704,7 +5734,10 @@ Microfinance,2019/01/08,"1,389.82",5.42,0.3915%
 Microfinance,2019/01/07,"1,384.40",11.53,0.8397%
 Microfinance,2019/01/06,"1,372.87",-22.84,-1.6362%
 Microfinance,2019/01/03,"1,395.71",1.22,0.0878%
+Microfinance,2019/01/02,"1,394.49",6.59,0.4745%
+Microfinance,2019/01/01,"1,389.16",3.24,0.234%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Non-life Insurance,2021/06/10,"15,200.18",-45.09,-0.2958%
 Non-life Insurance,2021/06/09,"15,245.85",39.00,0.2565%
 Non-life Insurance,2021/06/08,"15,206.85",554.15,3.7819%
 Non-life Insurance,2021/06/07,"14,652.68",31.65,0.2165%
@@ -6234,7 +6267,10 @@ Non-life Insurance,2019/01/08,"5,649.24",-38.13,-0.6704%
 Non-life Insurance,2019/01/07,"5,687.37",82.88,1.4788%
 Non-life Insurance,2019/01/06,"5,604.49",-79.08,-1.3913%
 Non-life Insurance,2019/01/03,"5,683.57",15.02,0.265%
+Non-life Insurance,2019/01/02,"5,668.55",-8.43,-0.1485%
+Non-life Insurance,2019/01/01,"5,675.45",9.72,0.1716%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Life Insurance,2021/06/10,"18,723.73",-273.68,-1.4406%
 Life Insurance,2021/06/09,"18,994.96",29.12,0.1535%
 Life Insurance,2021/06/08,"18,965.84",668.57,3.6539%
 Life Insurance,2021/06/07,"18,297.27",16.04,0.0877%
@@ -6765,7 +6801,10 @@ Life Insurance,2019/01/08,"6,089.26",-11.92,-0.1954%
 Life Insurance,2019/01/07,"6,101.18",92.69,1.5427%
 Life Insurance,2019/01/06,"6,008.49",-43.75,-0.7229%
 Life Insurance,2019/01/03,"6,102.60",68.05,1.1276%
+Life Insurance,2019/01/02,"6,034.55",-68.39,-1.1206%
+Life Insurance,2019/01/01,"6,102.94",0.63,0.0103%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Manufacturing and Production,2021/06/10,"6,168.81",-38.67,-0.623%
 Manufacturing and Production,2021/06/09,"6,207.48",237.46,3.9776%
 Manufacturing and Production,2021/06/08,"5,970.02",129.30,2.2137%
 Manufacturing and Production,2021/06/07,"5,840.72",-21.20,-0.3617%
@@ -7292,7 +7331,9 @@ Manufacturing and Production,2019/01/09,"2,245.26",12.57,0.563%
 Manufacturing and Production,2019/01/08,"2,232.69",5.07,0.2277%
 Manufacturing and Production,2019/01/07,"2,227.62",-12.76,-0.5697%
 Manufacturing and Production,2019/01/06,"2,240.38",-22.13,-0.9783%
+Manufacturing and Production,2019/01/02,"2,262.52",-9.21,-0.4053%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Others,2021/06/10,"2,288.79",-6.00,-0.2616%
 Others,2021/06/09,"2,294.80",-31.52,-1.355%
 Others,2021/06/08,"2,326.32",45.63,2.0007%
 Others,2021/06/07,"2,280.99",5.10,0.2242%
@@ -7824,7 +7865,10 @@ Others,2019/01/08,733.81,1.02,0.1396%
 Others,2019/01/07,732.78,-0.04,-0.006%
 Others,2019/01/06,732.83,9.54,1.3194%
 Others,2019/01/03,723.28,0.30,0.0414%
+Others,2019/01/02,722.98,-5.68,-0.7792%
+Others,2019/01/01,728.66,-0.02,-0.0029%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Mutal Fund,2021/06/10,15.73,0.12,0.785%
 Mutal Fund,2021/06/09,15.60,0.00,0.0288%
 Mutal Fund,2021/06/08,15.59,0.34,2.2476%
 Mutal Fund,2021/06/07,15.25,0.10,0.6627%
@@ -8266,6 +8310,7 @@ Mutal Fund,2019/05/15,10.08,-0.04,-0.3845%
 Mutal Fund,2019/05/14,10.12,0.09,0.9389%
 Mutal Fund,2019/05/13,10.02,0.10,1.0425%
 Index Name,Date (AD),Index Value,Absolute Change,Percentage Change
+Investment,2021/06/10,104.72,1.12,1.0812%
 Investment,2021/06/09,103.61,-1.02,-0.9781%
 Investment,2021/06/08,104.64,-0.93,-0.8806%
 Investment,2021/06/07,105.53,-0.10,-0.0901%
